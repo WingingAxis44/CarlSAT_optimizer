@@ -1,0 +1,26 @@
+warning: output file "joe.out" will be overwrittenc Parameters: ./CarlSAT -z test1.wcard -t 2 -w joe.out 
+c StartPhase1Flips = 1, IncreasePhase1Flips = 1, LoopLengthPhase12 = 1000
+c Track degree of vars = 0, Age unsat hard clauses = 1, Pick from top 10 items 
+c Loglevel = 1, Timeout = 2000 ms, 
+c MaxOuterRestarts = 1, BaseFlipCount = 1000000, MaxInnerRestarts = 1000000, FirstDoRandomAssignment = 0
+c RandomSeed = 1 
+c ReadIntermediate file = 0 
+c Filename = test1.wcard
+c new cost after 1092 flips (1 ms) is 428426, phaseI_flips = 2
+c new cost after 224833 flips (478 ms) is 425100, phaseI_flips = 2
+c new cost after 226865 flips (496 ms) is 424206, phaseI_flips = 2
+c new cost after 228499 flips (511 ms) is 423140, phaseI_flips = 2
+c new cost after 229792 flips (522 ms) is 423040, phaseI_flips = 2
+c new cost after 231294 flips (535 ms) is 422801, phaseI_flips = 2
+c new cost after 233738 flips (557 ms) is 422301, phaseI_flips = 2
+c new cost after 239248 flips (607 ms) is 422074, phaseI_flips = 2
+c new cost after 243313 flips (642 ms) is 422040, phaseI_flips = 2
+c new cost after 244842 flips (655 ms) is 421364, phaseI_flips = 2
+c new cost after 252235 flips (720 ms) is 421118, phaseI_flips = 2
+c Loops performed: 59448, MaxPhaseIFlips = 79, time taken = 2000 ms
+
+s UNKNOWN
+o 421118
+c True literals: 5767, False literals: 166
+c Intermediate: Score = 420262, True literals: 5765, False literals: 168
+c c Time: 0.720 s

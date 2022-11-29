@@ -1,0 +1,239 @@
+PS C:\Users\kiiwi\CapstoneNew\capstone-project> docker run -it kiera   
+[7, 8, 800, 40, 80, 8, 5000] parameters[420790, 1554.0, 2000] objective. u
+[9, 100, 10, 16, 0.5, 2, 4] parameters[418118, 1824.0, 2000] objective. un
+[1000, 7, 5000, 900, 700, 2, 1] parameters[424523, 1949.0, 2000] objective
+[4, 500, 20, 40, 1000, 30, 250] parameters[421741, 1124.0, 2000] objective
+[1, 50, 400, 300, 0.5, 6, 2000] parameters[421475, 1958.0, 2000] objective
+[3, 1, 5000, 8, 2, 25, 2] parameters[420143, 1585.0, 2000] objective. unde
+[6, 200, 40, 40, 900, 10, 6] parameters[419853, 1787.0, 2000] objective. u
+[7, 50, 50000, 0.1, 300, 100, 500] parameters[458332, 365.0, 2000] objecti
+=============================================
+n_gen |  n_eval |     fopt     |     favg
+=============================================
+    1 |       8 |  4.18119E+05 |  4.25623E+05
+MyCallback for gen 1
+[3, 800, 50000, 0.1, 0.2, 100, 2000] parameters[486908, 1593.0, 2000] obje
+[9, 15, 800, 300, 80, 0, 8000] parameters[423593, 1982.0, 2000] objective.
+[2, 500, 10, 800, 8, 12, 500] parameters[423885, 1130.0, 2000] objective. 
+[5, 6, 150, 0.5, 1000, 60, 1] parameters[432770, 1390.0, 2000] objective. 
+[800, 3, 100000, 700, 40, 0, 100] parameters[421700, 1919.0, 2000] objecti
+[9, 100, 10, 300, 0.1, 0, 6] parameters[420997, 1827.0, 2000] objective. u
+[9, 200, 10, 80, 500, 8, 7] parameters[419316, 1984.0, 2000] objective. un
+[200, 3, 1000, 950, 0.1, 2, 4] parameters[423929, 1988.0, 2000] objective.
+    2 |      16 |  4.18119E+05 |  4.20579E+05
+MyCallback for gen 2
+[3, 1, 5000, 10, 0.1, 12, 1] parameters[422144, 875.0, 2000] objective. un
+[50, 6, 400, 600, 500, 8, 5] parameters[422879, 1649.0, 2000] objective. u
+[20, 300, 10, 20, 0.1, 0, 5] parameters[418838, 711.0, 2000] objective. un
+[1, 7, 800, 400, 80, 10, 8000] parameters[422303, 1931.0, 2000] objective.
+[9, 8, 400, 120, 1, 0, 5000] parameters[420575, 1884.0, 2000] objective. u
+[800, 8, 40, 500, 120, 4, 5] parameters[421733, 1936.0, 2000] objective. u
+[3, 500, 10, 300, 3, 6, 6] parameters[422237, 1874.0, 2000] objective. und
+[500, 30, 20, 950, 0.1, 0, 7] parameters[425535, 1989.0, 2000] objective. 
+    3 |      24 |  4.18119E+05 |  4.20150E+05
+MyCallback for gen 3
+[1, 2, 5000, 0.5, 0.5, 12, 9] parameters[432916, 83.0, 2000] objective. un
+[3, 50, 200, 120, 0.2, 4, 250] parameters[419744, 1710.0, 2000] objective.
+[6, 100, 40, 10, 3, 4, 3] parameters[418375, 572.0, 2000] objective. under
+[15, 100, 10, 16, 0.5, 0, 4] parameters[418645, 1958.0, 2000] objective. u
+[2, 200, 200, 400, 500, 10, 2000] parameters[424154, 1952.0, 2000] objecti
+[1, 15, 800, 10, 0.1, 10, 2000] parameters[421244, 1191.0, 2000] objective
+[6, 4, 8000, 400, 4, 0, 8000] parameters[422194, 1665.0, 2000] objective. 
+[20, 800, 20, 600, 900, 2, 7] parameters[423864, 1942.0, 2000] objective. 
+    4 |      32 |  4.18119E+05 |  4.19905E+05
+MyCallback for gen 4
+[3, 100, 80, 16, 900, 10, 4] parameters[419117, 1522.0, 2000] objective. u
+[1, 50, 500, 20, 0.1, 2, 100] parameters[421110, 522.0, 2000] objective. u
+[200, 4, 400, 700, 2, 0, 5] parameters[422472, 1978.0, 2000] objective. un
+[7, 10, 400, 600, 120, 12, 4] parameters[421551, 1801.0, 2000] objective. 
+[7, 200, 10, 80, 500, 8, 7] parameters[419316, 1996.0, 2000] objective. un
+[15, 100, 10, 1, 0.5, 0, 1] parameters[430358, 1468.0, 2000] objective. un
+[20, 200, 10, 80, 80, 4, 7] parameters[418290, 1949.0, 2000] objective. un
+[2, 100, 80, 120, 2, 0, 5000] parameters[419367, 1943.0, 2000] objective. 
+    5 |      40 |  4.18119E+05 |  4.19043E+05
+MyCallback for gen 5
+[7, 100, 40, 10, 3, 2, 3] parameters[418301, 1468.0, 2000] objective. unde
+[1, 300, 10, 10, 900, 20, 1] parameters[419157, 615.0, 2000] objective. un
+[5, 100, 40, 20, 0.2, 0, 3] parameters[419125, 648.0, 2000] objective. und
+[1, 100, 150, 120, 300, 6, 5000] parameters[420947, 1745.0, 2000] objectiv
+[50, 200, 100, 500, 20, 0, 8000] parameters[427245, 1154.0, 2000] objectiv
+[30, 800, 10, 10, 8, 2, 3] parameters[418326, 441.0, 2000] objective. unde
+[8, 100, 10, 16, 2, 2, 6] parameters[418686, 656.0, 2000] objective. under
+[8, 50, 40, 16, 0.5, 0, 100] parameters[421135, 1313.0, 2000] objective. u
+    6 |      48 |  4.18119E+05 |  4.18850E+05
+MyCallback for gen 6
+[6, 10, 400, 300, 700, 8, 500] parameters[422415, 1731.0, 2000] objective.
+[7, 100, 20, 10, 2, 2, 4] parameters[418373, 1730.0, 2000] objective. unde
+[6, 8, 400, 120, 1, 0, 8000] parameters[421193, 1979.0, 2000] objective. u
+[7, 200, 20, 80, 20, 4, 7] parameters[418441, 1856.0, 2000] objective. und
+[10, 20, 10, 80, 3, 0, 4] parameters[418019, 1884.0, 2000] objective. unde
+[5, 300, 40, 10, 900, 10, 1] parameters[420407, 614.0, 2000] objective. un
+[6, 500, 40, 8, 120, 8, 2] parameters[419666, 727.0, 2000] objective. unde
+[100, 300, 10, 4, 0.5, 0, 1] parameters[420347, 572.0, 2000] objective. un
+    7 |      56 |  4.18020E+05 |  4.18762E+05
+MyCallback for gen 7
+[3, 100, 40, 80, 10, 2, 5] parameters[418253, 1704.0, 2000] objective. und
+[20, 50, 10, 4, 0.5, 0, 2] parameters[420677, 391.0, 2000] objective. unde
+[3, 500, 80, 8, 900, 10, 5] parameters[419329, 1069.0, 2000] objective. un
+[30, 100, 10, 1, 0.5, 0, 6] parameters[431629, 81.0, 2000] objective. unde
+[6, 20, 10, 16, 0.1, 2, 5] parameters[418312, 810.0, 2000] objective. unde
+[2, 50, 40, 120, 80, 4, 8] parameters[418759, 1951.0, 2000] objective. und
+[6, 100, 20, 10, 16, 10, 3] parameters[418228, 557.0, 2000] objective. und
+[15, 20, 10, 16, 0.1, 0, 2] parameters[419167, 750.0, 2000] objective. und
+    8 |      64 |  4.18020E+05 |  4.18362E+05
+MyCallback for gen 8
+[9, 30, 10, 0.5, 8, 8, 2] parameters[429319, 544.0, 2000] objective. under
+[30, 20, 10, 16, 0.1, 0, 2] parameters[419396, 1188.0, 2000] objective. un
+[50, 800, 10, 10, 1, 0, 5] parameters[419227, 1916.0, 2000] objective. und
+[6, 10, 10, 80, 4, 0, 4] parameters[419250, 1783.0, 2000] objective. under
+[8, 15, 10, 4, 0.2, 0, 2] parameters[420534, 1711.0, 2000] objective. unde
+[9, 100, 10, 16, 0.1, 0, 6] parameters[418507, 1179.0, 2000] objective. un
+[100, 300, 10, 40, 40, 0, 2] parameters[419368, 1847.0, 2000] objective. u
+[30, 300, 10, 1, 0.2, 0, 3] parameters[429592, 90.0, 2000] objective. unde
+    9 |      72 |  4.18020E+05 |  4.18339E+05
+MyCallback for gen 9
+[1, 15, 20, 40, 4, 2, 7] parameters[419056, 1838.0, 2000] objective. under
+[30, 300, 10, 16, 0.1, 0, 3] parameters[419338, 1117.0, 2000] objective. u
+[8, 20, 10, 10, 3, 6, 2] parameters[420394, 1458.0, 2000] objective. under
+[100, 800, 10, 10, 10, 2, 2] parameters[419782, 1034.0, 2000] objective. u
+[4, 50, 20, 120, 80, 0, 10] parameters[419652, 1776.0, 2000] objective. un
+[30, 800, 10, 40, 8, 0, 6] parameters[419052, 1824.0, 2000] objective. und
+[2, 50, 40, 400, 80, 2, 8] parameters[422242, 1694.0, 2000] objective. und
+[7, 9, 10, 80, 3, 0, 3] parameters[418683, 1696.0, 2000] objective. under 
+   10 |      80 |  4.18020E+05 |  4.18339E+05
+MyCallback for gen 10
+[1, 15, 40, 120, 80, 4, 8] parameters[419409, 1554.0, 2000] objective. und
+[7, 30, 20, 300, 300, 4, 5] parameters[421670, 1118.0, 2000] objective. un
+[4, 10, 20, 400, 10, 2, 7] parameters[421486, 1812.0, 2000] objective. und
+[8, 100, 10, 10, 0.8, 2, 3] parameters[417898, 1027.0, 2000] objective. un
+[10, 50, 10, 8, 0.1, 0, 3] parameters[418955, 1446.0, 2000] objective. und
+[6, 100, 10, 16, 0.1, 0, 4] parameters[418898, 1486.0, 2000] objective. un
+[10, 800, 20, 20, 500, 2, 5] parameters[418830, 1004.0, 2000] objective. u
+[6, 15, 10, 120, 0.5, 0, 9] parameters[419324, 1832.0, 2000] objective. un
+   11 |      88 |  4.17899E+05 |  4.18298E+05
+MyCallback for gen 11
+[10, 300, 10, 10, 1, 2, 2] parameters[419413, 1979.0, 2000] objective. und
+[1, 7, 20, 500, 16, 0, 8] parameters[421950, 1961.0, 2000] objective. unde
+[2, 200, 10, 16, 4, 4, 4] parameters[418112, 1161.0, 2000] objective. unde
+[10, 800, 20, 40, 700, 4, 4] parameters[419234, 1681.0, 2000] objective. u
+[4, 20, 10, 16, 0.1, 4, 5] parameters[417907, 1349.0, 2000] objective. und
+[5, 9, 10, 10, 0.2, 0, 3] parameters[418817, 1962.0, 2000] objective. unde
+[1, 15, 20, 16, 4, 2, 7] parameters[418777, 1774.0, 2000] objective. under
+[9, 100, 10, 4, 0.2, 0, 2] parameters[419567, 1898.0, 2000] objective. und
+   12 |      96 |  4.17899E+05 |  4.18221E+05
+MyCallback for gen 12
+[1, 20, 40, 120, 20, 4, 8] parameters[419304, 1044.0, 2000] objective. und
+[7, 300, 10, 1, 0.1, 2, 4] parameters[428911, 90.0, 2000] objective. under
+[20, 100, 20, 80, 20, 0, 8] parameters[419638, 1879.0, 2000] objective. un
+[8, 20, 10, 20, 0.8, 0, 3] parameters[419358, 600.0, 2000] objective. unde
+[5, 15, 20, 500, 120, 0, 8] parameters[423150, 1511.0, 2000] objective. un
+[4, 300, 10, 10, 2, 4, 3] parameters[418659, 1095.0, 2000] objective. unde
+[1, 20, 10, 4, 0.1, 4, 5] parameters[419878, 1107.0, 2000] objective. unde
+[6, 100, 10, 16, 0.1, 0, 6] parameters[418806, 1725.0, 2000] objective. un
+   13 |     104 |  4.17899E+05 |  4.18221E+05
+MyCallback for gen 13
+[2, 20, 10, 16, 0.8, 4, 5] parameters[418296, 1771.0, 2000] objective. und
+[15, 200, 20, 300, 300, 0, 6] parameters[423058, 1789.0, 2000] objective. 
+[8, 30, 20, 40, 0.8, 2, 6] parameters[418538, 1131.0, 2000] objective. und
+[20, 30, 10, 40, 1, 0, 3] parameters[418932, 1740.0, 2000] objective. unde
+[4, 20, 10, 400, 120, 0, 7] parameters[422712, 1858.0, 2000] objective. un
+[7, 20, 10, 8, 0.2, 2, 2] parameters[420573, 1253.0, 2000] objective. unde
+[9, 100, 10, 16, 0.2, 0, 6] parameters[418531, 1012.0, 2000] objective. un
+[2, 100, 10, 10, 8, 4, 1] parameters[419905, 651.0, 2000] objective. under
+   14 |     112 |  4.17899E+05 |  4.18221E+05
+MyCallback for gen 14
+[6, 200, 20, 40, 80, 2, 3] parameters[418101, 1730.0, 2000] objective. und
+[9, 100, 10, 40, 0.8, 0, 6] parameters[417712, 1747.0, 2000] objective. un
+[4, 20, 10, 16, 0.5, 4, 3] parameters[417704, 1344.0, 2000] objective. und
+[100, 15, 10, 40, 0.2, 0, 4] parameters[418250, 1373.0, 2000] objective. u
+[5, 200, 20, 300, 500, 4, 7] parameters[422921, 1407.0, 2000] objective. u
+[2, 200, 40, 16, 16, 4, 7] parameters[418625, 1879.0, 2000] objective. und
+[9, 100, 10, 4, 0.1, 2, 1] parameters[419901, 853.0, 2000] objective. unde
+[30, 20, 10, 40, 8, 0, 2] parameters[419416, 1769.0, 2000] objective. unde
+   15 |     120 |  4.17705E+05 |  4.18132E+05
+MyCallback for gen 15
+[9, 30, 10, 16, 0.8, 2, 4] parameters[418796, 1299.0, 2000] objective. und
+[5, 20, 10, 16, 0.5, 4, 3] parameters[417704, 1588.0, 2000] objective. und
+[2, 30, 20, 80, 8, 4, 9] parameters[419692, 1790.0, 2000] objective. under
+[3, 50, 20, 300, 20, 0, 9] parameters[423197, 1976.0, 2000] objective. und
+[4, 20, 10, 16, 0.1, 2, 5] parameters[418312, 1050.0, 2000] objective. und
+[7, 50, 10, 10, 1, 2, 3] parameters[419176, 1508.0, 2000] objective. under
+[5, 20, 10, 1, 0.8, 2, 2] parameters[431268, 245.0, 2000] objective. under
+[6, 200, 20, 16, 20, 4, 7] parameters[418237, 1316.0, 2000] objective. und
+   16 |     128 |  4.17705E+05 |  4.17950E+05
+MyCallback for gen 16
+[6, 100, 10, 40, 16, 0, 8] parameters[419927, 1648.0, 2000] objective. und
+[7, 100, 10, 10, 0.8, 2, 3] parameters[417898, 1069.0, 2000] objective. un
+[1, 10, 10, 16, 0.1, 2, 6] parameters[418255, 1681.0, 2000] objective. und
+[4, 20, 10, 40, 0.8, 0, 5] parameters[417973, 1657.0, 2000] objective. und
+[7, 50, 10, 16, 0.8, 4, 3] parameters[417912, 1473.0, 2000] objective. und
+[4, 20, 10, 40, 0.1, 2, 7] parameters[418575, 1821.0, 2000] objective. und
+[3, 8, 10, 16, 0.1, 4, 1] parameters[420146, 1091.0, 2000] objective. unde
+[3, 8, 10, 16, 0.2, 4, 1] parameters[419989, 1942.0, 2000] objective. unde
+   17 |     136 |  4.17705E+05 |  4.17909E+05
+MyCallback for gen 17
+[4, 20, 10, 4, 0.1, 4, 2] parameters[420335, 236.0, 2000] objective. under
+[15, 300, 10, 40, 0.8, 0, 6] parameters[419414, 1453.0, 2000] objective. u
+[1, 10, 10, 16, 0.2, 2, 4] parameters[417984, 1670.0, 2000] objective. und
+[7, 50, 10, 16, 0.8, 2, 3] parameters[418162, 1856.0, 2000] objective. und
+[8, 100, 10, 16, 0.1, 2, 4] parameters[417767, 1541.0, 2000] objective. un
+[6, 50, 10, 16, 0.5, 4, 3] parameters[418171, 1559.0, 2000] objective. und
+[4, 20, 10, 8, 0.2, 4, 1] parameters[419830, 1580.0, 2000] objective. unde
+[4, 20, 10, 10, 0.1, 0, 5] parameters[418887, 1536.0, 2000] objective. und
+   18 |     144 |  4.17705E+05 |  4.17841E+05
+MyCallback for gen 18
+[1, 10, 10, 16, 0.1, 4, 5] parameters[418701, 1485.0, 2000] objective. und
+[8, 100, 10, 10, 0.1, 0, 3] parameters[419545, 430.0, 2000] objective. und
+[15, 300, 10, 16, 0.1, 2, 4] parameters[418633, 823.0, 2000] objective. un
+[9, 20, 10, 16, 0.2, 2, 4] parameters[418114, 1468.0, 2000] objective. und
+[9, 100, 10, 40, 1, 0, 6] parameters[418091, 1687.0, 2000] objective. unde
+[5, 20, 10, 16, 1, 4, 1] parameters[419805, 1423.0, 2000] objective. under
+[9, 100, 10, 40, 0.8, 0, 4] parameters[418820, 1397.0, 2000] objective. un
+[15, 300, 10, 10, 0.5, 0, 4] parameters[418603, 1326.0, 2000] objective. u
+   19 |     152 |  4.17705E+05 |  4.17841E+05
+MyCallback for gen 19
+[5, 20, 10, 40, 0.2, 0, 6] parameters[418524, 1735.0, 2000] objective. und
+[6, 50, 10, 10, 0.5, 4, 3] parameters[419013, 1530.0, 2000] objective. und
+[3, 20, 10, 16, 0.1, 2, 4] parameters[417736, 1114.0, 2000] objective. und
+[5, 100, 10, 16, 0.1, 2, 4] parameters[418553, 1505.0, 2000] objective. un
+[4, 9, 10, 16, 0.1, 4, 4] parameters[418309, 423.0, 2000] objective. under
+[2, 15, 10, 16, 0.1, 4, 4] parameters[417928, 1879.0, 2000] objective. und
+[7, 30, 10, 40, 0.5, 0, 6] parameters[418604, 1912.0, 2000] objective. und
+[4, 20, 10, 16, 0.1, 2, 4] parameters[417736, 1114.0, 2000] objective. und
+   20 |     160 |  4.17705E+05 |  4.17776E+05
+MyCallback for gen 20
+generations: 20
+X[[ 3 11  0  6  2  2  2]
+ [ 4 11  0  6  2  2  2]
+ [ 8 14  0  8  3  0  5]
+ [ 2 11  0  6  0  1  3]
+ [ 3 11  0  6  0  1  3]
+ [ 7 14  0  6  0  1  3]
+ [ 6 13  0  6  3  2  2]
+ [ 1 10  0  6  0  2  3]]
+F[[417704.672 ]
+ [417704.794 ]
+ [417712.8735]
+ [417736.557 ]
+ [417736.557 ]
+ [417767.7705]
+ [417912.7365]
+ [417928.9395]]
+A[['howdy']
+ ['howdy']
+ ['howdy']
+ ['howdy']
+ ['howdy']
+ ['howdy']
+ ['howdy']
+ ['howdy']]
+state[['2aff2b37-aa6d-4911-90be-54a9670ce3c2']
+ ['15e38ee0-241d-40cd-9e8c-3865fc65a5ea']
+ ['4ce2f48d-ae48-4d33-b54f-455dffb3600e']
+ ['94e72b6f-1161-4475-b0bd-5d81737d7d90']
+ ['6e5b90a0-2fb2-4a05-a70d-76552f61c4d1']
+ ['96a839f5-a685-468b-a84b-eaf1d49dedec']
+ ['e64d45cb-a6f2-4cbd-b89f-531f4e0514d2']
+ ['d7c3d0cf-4ce8-4f07-8549-3e980ff407fc']]
+A[['howdy']]
+result done

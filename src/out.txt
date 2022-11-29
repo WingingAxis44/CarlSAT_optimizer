@@ -1,0 +1,17 @@
+warning: output file "test3.out" will be overwrittenc Parameters: ./CarlSAT -z test1.wcard -a 20 -b 10 -i test1.out -w test3.out 
+c StartPhase1Flips = 20, IncreasePhase1Flips = 10, LoopLengthPhase12 = 1000
+c Track degree of vars = 0, Age unsat hard clauses = 1, Pick from top 10 items 
+c Loglevel = 1, Timeout = 0 ms, 
+c MaxOuterRestarts = 1, BaseFlipCount = 1000000, MaxInnerRestarts = 1000000, FirstDoRandomAssignment = 0
+c RandomSeed = 1 
+c ReadIntermediate file = 1 
+c Filename = test1.out
+c Restart from previously saved assignment with cost 430658
+
+c Loops performed: 1, MaxPhaseIFlips = 0, time taken = 0 ms
+
+s UNKNOWN
+o 428867
+c True literals: 5767, False literals: 166
+c Intermediate: Score = 428867, True literals: 5767, False literals: 166
+c c Time: 0.000 s

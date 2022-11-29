@@ -1,0 +1,24 @@
+c Parameters: ./CarlSAT -z test1.wcard -t 2 
+c StartPhase1Flips = 1, IncreasePhase1Flips = 1, LoopLengthPhase12 = 1000
+c Track degree of vars = 0, Age unsat hard clauses = 1, Pick from top 10 items
+c Loglevel = 1, Timeout = 2 secs,
+c MaxOuterRestarts = 1, BaseFlipCount = 1000000, MaxInnerRestarts = 1000000, FirstDoRandomAssignment = 0
+c RandomSeed = 1
+c Filename = test1.wcard
+c new cost after 1092 flips (0.062 secs) is 428426, phaseI_flips = 2
+c new cost after 224833 flips (0.534 secs) is 425100, phaseI_flips = 2
+c new cost after 226865 flips (0.554 secs) is 424206, phaseI_flips = 2
+c new cost after 228499 flips (0.572 secs) is 423140, phaseI_flips = 2
+c new cost after 229792 flips (0.586 secs) is 423040, phaseI_flips = 2
+c new cost after 231294 flips (0.606 secs) is 422801, phaseI_flips = 2
+c new cost after 233738 flips (0.632 secs) is 422301, phaseI_flips = 2
+c new cost after 239248 flips (0.691 secs) is 422074, phaseI_flips = 2
+c new cost after 243313 flips (0.731 secs) is 422040, phaseI_flips = 2
+c new cost after 244842 flips (0.749 secs) is 421364, phaseI_flips = 2
+c new cost after 252235 flips (0.829 secs) is 421118, phaseI_flips = 2
+c time taken = 2 s
+
+c Solution is valid and cost (421118) checks out
+s UNKNOWN
+o 421118
+c c Time: 0.829 s

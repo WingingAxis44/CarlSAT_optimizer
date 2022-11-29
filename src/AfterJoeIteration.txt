@@ -1,0 +1,18 @@
+c Parameters: ./CarlSAT -z test1.wcard -t 2 -i joe.out -w sue.out 
+c StartPhase1Flips = 1, IncreasePhase1Flips = 1, LoopLengthPhase12 = 1000
+c Track degree of vars = 0, Age unsat hard clauses = 1, Pick from top 10 items 
+c Loglevel = 1, Timeout = 2000 ms, 
+c MaxOuterRestarts = 1, BaseFlipCount = 1000000, MaxInnerRestarts = 1000000, FirstDoRandomAssignment = 0
+c RandomSeed = 1 
+c ReadIntermediate file = 1 
+c Filename = joe.out
+c Restart from previously saved assignment with cost 421118
+
+c new cost after 1035 flips (0 ms) is 420418, phaseI_flips = 2
+c Loops performed: 63224, MaxPhaseIFlips = 236, time taken = 2000 ms
+
+s UNKNOWN
+o 420418
+c True literals: 5767, False literals: 166
+c Intermediate: Score = 419241, True literals: 5761, False literals: 172
+c c Time: 0.001 s
